@@ -1,2 +1,4 @@
 # Screen-Pet-Project
 Python project to create your own desktop screen pet. 
+I have always wanted to have my own pet, unfortunately I am allergic to cats and I am not able to have one home. Therefore, for this project, I decided to create my own screen pet. The screen pet accompanies me when doing homework, working or browsing on the internet. I chose this project because I can apply my knowledge and skills gained in this class to create a fun GUI. The Screen Pet is an event-based program, which means the functions it performs and the order in which it performs all functions is dependent on user input. In this program, user input  will be in the form of keypresses and mouse clicks. 
+In this class, we have learned many applications in Python that allow us to be creative and express our ideas through GUI. For this project, I wanted to build a unique GUI with creative functions.
